@@ -1,0 +1,279 @@
+.endfootervariant2-child {
+  position: relative;
+  width: 1442px;
+  height: 200px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.endfootervariant2 {
+  position: absolute;
+  top: 824px;
+  left: calc(50% - 720px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.idlog1 {
+  border: 0;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: relative;
+  font-weight: 700;
+  color: var(--color-teal-100);
+  text-align: right;
+  width: 138px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+.label3 {
+  flex-direction: row;
+}
+
+.idlog,
+.inputidlog,
+.inputl,
+.label3 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+
+.inputidlog {
+  border: 1px solid var(--color-darkslategray);
+  background-color: transparent;
+  border-radius: var(--br-3xs);
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  width: 350px;
+  height: 30px;
+  text-align: right;
+}
+
+.idlog,
+.inputl {
+  flex-direction: column;
+}
+
+.idlog {
+  gap: var(--gap-7xl);
+}
+
+.forgme,
+.pslog {
+  position: relative;
+  text-align: right;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.pslog {
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-teal-100);
+  width: 138px;
+  height: 22px;
+}
+
+.forgme {
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  font-family: var(--font-duru-sans);
+  color: var(--color-teal);
+  width: 97px;
+  height: 23px;
+}
+
+.label5 {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.forgetformy {
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-doppio-one);
+  color: var(--color-darkslategray-100);
+  text-align: right;
+}
+
+.label6 {
+  cursor: pointer;
+  justify-content: flex-end;
+}
+
+.forget,
+.label6,
+.radiobutton,
+.seved {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.radiobutton {
+  cursor: pointer;
+  overflow: hidden;
+  justify-content: flex-start;
+}
+
+.forget,
+.seved {
+  justify-content: flex-end;
+}
+
+.seved {
+  overflow: hidden;
+  gap: var(--gap-3xs);
+}
+
+.forget {
+  width: 117px;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+}
+
+.logintext {
+  cursor: pointer;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+
+.loginbutton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) 37px;
+  background-color: var(--color-teal);
+  border-radius: var(--br-3xs);
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.b,
+.span {
+  font-family: var(--font-dongle);
+  color: var(--color-darkslategray-100);
+}
+
+.b {
+  color: var(--color-teal);
+}
+
+.span1 {
+  text-decoration: underline;
+}
+
+.registerlog {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-align: left;
+}
+
+.labelfor {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.divlog,
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+.divlog {
+  height: 150px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 80px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+
+.login {
+  position: absolute;
+  top: 302px;
+  left: calc(50% - 189.9px);
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+
+.image-32-icon {
+  position: relative;
+  width: 212px;
+  height: 127px;
+  object-fit: cover;
+}
+
+.logoimage {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 106px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.b1 {
+  position: relative;
+  display: inline-block;
+  width: 255px;
+  height: 49px;
+  flex-shrink: 0;
+}
+
+.login-child {
+  position: relative;
+  border-radius: var(--br-216xl);
+  width: 24px;
+  height: 56px;
+  object-fit: cover;
+}
+
+.login1 {
+  position: absolute;
+  top: 84px;
+  right: 109px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+.loginpage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-17xl);
+  color: var(--color-teal);
+  font-family: var(--font-poppins);
+}
